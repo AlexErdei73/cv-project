@@ -25,9 +25,9 @@ and use my stronger mathematics and problem solving skills.I have realized that
 I should go back to the field,which I had formally studied and used to work in,but
 unfortunately I have never completed my formal education fully.In the current situation
 I have to wait to sell the project to the company,but I do not mind it,because solving 
-problems by computers is good fun.I realized that I should learn webdevelopment, because 
+problems by computers is good fun.I realized that I should learn web development, because 
 currently most of the software developer jobs are in it.I am looking for a company, which is
-happy to use my web developer skills and in favour can provide intersting, function rich
+happy to use my web developer skills and in return can provide interesting, function rich
 projects, so I can get payed for doing something, which I love.My skills in web development
 are reaching from Linux, git, gitHub, HTML, CSS, Bootstrap, JavaScript ES5, ES6, TypeScript,
 npm, webpack, Angular, React. My toolset is growing.`,
